@@ -1,7 +1,7 @@
 importScripts("cache-polyfill.js")
 
 var PREFIX = "cult"
-var CACHE_VERSION = 'cult-v0.2.11';
+var CACHE_VERSION = 'cult-v0.2.12';
 var CACHE_FILES = [
     "./manifest.json",
     "./cult.js", 
