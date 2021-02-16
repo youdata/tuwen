@@ -4,7 +4,7 @@ var PREFIX = "cult"
 var CACHE_VERSION = 'cult-v0.2.12';
 var CACHE_FILES = [
     "./manifest.json",
-    "./cult.js", 
+    "./lib.js", 
     "./index.html", 
     "./fonts.css", 
     "./fonts/XinDiZhaoMeng-1.woff",
